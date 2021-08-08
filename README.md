@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Super45coder</h1>
-<h3 align="center">Coder and Scratcher</h3>
+<h3 align="center">Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Super45coder&label=Profile%20views&color=0e75b6&style=flat" alt="grahamsh-llk" /> </p>
 
