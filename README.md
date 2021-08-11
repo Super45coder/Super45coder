@@ -9,25 +9,17 @@
 
 <h2>What I love:</h2>
 <br>
-<h2>Math</h2>
-<h2>Science</h2>
-<h2>Coding</h2>
-<h2>LEGO</h2>
-<h2>Knex</h2>
-<h2>Space</h2>
-<h2>Time Travel</h2>
-<h2>Dreams</h2>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p>Math<p>
+<p>Science</p>
+<p>Coding</p>
+<p>LEGO</p>
+<p>Knex</p>
+<p>Space</p>
+<p>Time Travel</p>
+<p>Dreams</p><br><br>
+
 <h2>Languages I use:</h2>
 <br>
-<h2>HTML</h2>
-<h2>CSS</h2>
-<h2>JS</h2>
-
-
+<p>HTML</p>
+<p>CSS</p>
+<p>JS</p>
