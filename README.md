@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Super45coder&label=Profile%20views&color=0e75b6&style=flat" alt="grahamsh-llk" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<a href="mailto:agoradia@cherrycreekschools.org" target="blank">agoradia@cherrycreekschools.org</a>
 <br>
 
 <h2>What I love:</h2>
